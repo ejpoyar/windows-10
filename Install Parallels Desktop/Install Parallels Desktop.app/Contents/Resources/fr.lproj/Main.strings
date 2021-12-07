@@ -1,0 +1,33 @@
+/* Class = "NSMenuItem"; title = "Install Parallels Desktop"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Installer Parallels Desktop";
+
+/* Class = "NSMenuItem"; title = "Quit Install %@"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quitter Installer %@";
+
+/* Class = "NSMenuItem"; title = "About Install %@"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "À propos d'Installer %@";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Menu principal";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Tout afficher";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Hide Install %@"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Masquer Installer %@";
+
+/* Class = "NSTextFieldCell"; title = "Downloading %@..."; ObjectID = "PHw-El-oQ3"; */
+"PHw-El-oQ3.title" = "Téléchargement de %@...";
+
+/* Class = "NSMenu"; title = "Install Parallels Desktop"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Installer Parallels Desktop";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Masquer les autres";
+
